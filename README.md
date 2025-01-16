@@ -27,6 +27,9 @@ This project focuses on performing Exploratory Data Analysis (EDA) for a machine
 - Pandas, NumPy, Matplotlib, Seaborn
 - Jupyter Notebook
 - Tableau for Data Visualization
+```bash
+https://public.tableau.com/app/profile/akmal.najib/viz/TikTokEndofCourseProject-Course3_17362624959630/Story1
+```
 
 ## Dataset Description
 The dataset contains various attributes related to video submissions on TikTok, including:
